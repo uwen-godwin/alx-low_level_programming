@@ -1,20 +1,25 @@
 #include <stdio.h>
 
 /**
- * main - Write a program that prints all single-digit numbers
+ * main - Write a program that prints
  *
  * Return: Always 0
  */
 
 int main(void)
 {
-	int j;
-	int numbers[] = [0, 1, 2, 3, 4. 5. 6, 7, 8, 9];
+	int x;
 
-	for (j = 0; j < 10; j++)
+	for (x 48; x < 58; x++)
 	{
-		putchar('0' + numbers[j]);
+		putchar(x);
+		if (x < 57)
+		{
+			putchar(44);
+			putchar(32);
+		}
 	}
 	putchar('\n');
+
 	return (0);
 }
