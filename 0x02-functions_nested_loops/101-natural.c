@@ -1,16 +1,20 @@
 #include <stdio.h>
 
 /**
- * File: 101-natural
- * Auth: Godwin uwenn
+ * main - function to sum multiple of 3 or 5 numbers
+ *
+ * Return: 0
  */
 int main(void)
 {
-	int, sum = 0;
+	int sum = 0;
+	int i;
+
 	for (i = 0; i < 1024; i++)
 	{
-		if ((i % 3) == || (i % 5 ) == 0)
+		if (i % 3 == 0 || i % 5  == 0)
+			sum = sum + i;
 	}
-	printf("%d", sum)
-		return (0)
+	printf("%d\n", sum);
+		return (0);
 }
