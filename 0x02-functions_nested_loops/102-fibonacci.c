@@ -18,8 +18,8 @@ int main(void)
 		next = term1 + term2;
 		term1 = term2;
 		term2 = next;
-	if (i != 49)
-		printf(", ");
+		if (i != 49)
+			printf(", ");
 	}
 	printf("\n");
 	return (0);
