@@ -1,12 +1,5 @@
 #include <stdio.h>
-/**
- * main - Entry point of the program
- *
- * This function initializes variables and performs certain operations.
- * It returns 0 upon successful completion.
- *
- * Return: 0 upon successful completion
- */
+
 
 int main(void)
 {
