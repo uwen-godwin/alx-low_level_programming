@@ -2,7 +2,7 @@
 
 /**
  * _strchr - a function that locates a character in a string.
- * @s: input parameter
+* @s: input parameter
  * @c: input parameter
  * Return: 0
  */
