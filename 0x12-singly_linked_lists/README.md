@@ -4,7 +4,7 @@
 
 	Task 0 - 6
 
-0. Print list.
+0. 	Print list.
 
 	Write a function that prints all the elements of a list_t list.
 
@@ -18,13 +18,13 @@
 
 	You are allowed to use printf
 
-1. List length.
+1. 	List length.
 
 	Write a function that returns the number of elements in a linked list_t list.
 
 	Prototype: size_t list_len(const list_t *h);
 
-2. Add node.
+2. 	Add node.
 
 	Write a function that adds a new node at the beginning of a list_t list.
 
@@ -36,7 +36,7 @@
 
 	You are allowed to use strdup
 
-3. Add node at the end.
+3. 	Add node at the end.
 
 	Write a function that adds a new node at the end of a list_t list.
 
@@ -48,13 +48,13 @@
 
 	You are allowed to use strdup
 
-4. Free list.
+4. 	Free list.
 
 	Write a function that frees a list_t list.
 
 	Prototype: void free_list(list_t *head);
 
-5. The Hare and the Tortoise.
+5. 	The Hare and the Tortoise.
 
 	Write a function that prints You're beat! and yet, you must allow,\n
 
