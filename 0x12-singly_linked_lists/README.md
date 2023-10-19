@@ -1,7 +1,7 @@
-	Title of the project: 
+	Title of the project:
 
 	0x12. C - Singly linked lists
-	
+
 	Task 0 - 6
 
 0. Print list.
@@ -13,7 +13,7 @@
 	Return: the number of nodes
 
 	Format: see example
-	
+
 	If str is NULL, print [0] (nil)
 
 	You are allowed to use printf
@@ -31,7 +31,7 @@
 	Prototype: list_t *add_node(list_t **head, const char *str);
 
 	Return: the address of the new element, or NULL if it failed
-	
+
 	str needs to be duplicated
 
 	You are allowed to use strdup
