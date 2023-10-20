@@ -3,7 +3,7 @@
 void first(void) __attribute__((constructor));
 
 /**
- * first - Function to execute a sentence
+ * firat - Function to execute a senten
  */
 void firat(void)
 {
