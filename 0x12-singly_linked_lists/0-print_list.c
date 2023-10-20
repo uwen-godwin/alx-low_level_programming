@@ -2,8 +2,8 @@
 
 /**
  * print_list - Display all the element of a list_t list
- * @h: First node in the list_t list
- * Returen: Value of nodes
+ * @h:First node in the list
+ * Return: Value of nodes
  */
 
 size_t print_list(const list_t *h)
