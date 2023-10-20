@@ -3,6 +3,7 @@
 /**
  * add_node_end - Function to add node at the end of a list
  * @head: Node head
+ * @str: string
  * Return: new element address
  */
 list_t *add_node_end(list_t **head, const char *str)
