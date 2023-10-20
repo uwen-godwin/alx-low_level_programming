@@ -17,11 +17,14 @@ list_t *add_node_end(list_t **head, const char *str)
 	addnode->str = strdup(str);
 	for (k = 0; str[k] != '\0'; k++)
 		count++;
+	addnode->len = count;
 	addnode->next = NULL;
 	tmp = *head;
 
 	if (tmp == NULL)
+	{
 		*head = addnode;
+	}
 	else
 	{
 		while (tmp->next != NULL)
