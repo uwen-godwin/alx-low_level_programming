@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void first(void)_attribut_((construct));
+void first(void) __attribute__((constructor));
 
 /**
  * first - Function to execute a sentence
