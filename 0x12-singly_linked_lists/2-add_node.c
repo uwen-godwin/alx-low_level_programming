@@ -3,6 +3,7 @@
 /**
  * add_node - function to add node at the begining
  * @head: head of node
+ * @str: string
  * Return: Return address of the element, or NULL if failure
  */
 
