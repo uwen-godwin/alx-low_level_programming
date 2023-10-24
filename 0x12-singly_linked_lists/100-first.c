@@ -1,11 +1,12 @@
-#include <stdio.h>
+#include "lists.h"
 
-void first(void) __attribute__((constructor));
+void first(void) __attribute__ ((constructor));
 
 /**
- * firat - Function to execute a sentence
+ * first - a sentence should be printed before the main
+ * executed function
  */
-void firat(void)
+void first(void)
 {
 	printf("You're beat! and yet, you must allow,\n");
 	printf("I bore my house upon my back!\n");
