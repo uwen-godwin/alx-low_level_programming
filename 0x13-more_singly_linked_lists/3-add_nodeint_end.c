@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /**
- * add _nodeint_end - function to add a node to the end of a list
+ * add_nodeint_end - function to add a node to the end of a list
  * @head: Pointer pointing to the head of the list
  * @n: add data to the new list
- * @Return: Return address of the element
+ * Return: Return address of the element
  */
 
 listint_t *add_nodeint_end(listint_t **head, const int n)
