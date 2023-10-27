@@ -6,8 +6,7 @@
 
 <a name="Project 0x09. C - Static libraries"></a>
 ##Project 0x09. C - Static libraries 
-	
-	By Uwen, Godwin Etenikang
+By Uwen, Godwin Etenikang
 
 #Task 0: 
 
