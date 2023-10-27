@@ -1,15 +1,18 @@
 <a name="Project Title:  0x09. C - Static libraries"></a>
-## Project Title: 0x09. C - Static libraries 
+## Project Title: 0x09. C - Static libraries
 
-	By Uwen, Godwin Etenikang
+	[See Project Below]Powered by Julien Barbier
 
-#Task 0: 
+
+<a name="Task 0"></a>
+## Task 0: 
 
 	A library is not a luxury but one of the necessities of life
 
  	Create the static library libmy.a containing all the functions listed below
 
-#Task 1: 
+<a name="Task 1"></a>
+## Task 1: 
 
 	Without libraries what have we? We have no past and no future
 	
