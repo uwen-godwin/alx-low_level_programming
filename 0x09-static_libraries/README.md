@@ -20,7 +20,7 @@
 	
 	the .c files that are in the current directory.
 
-## Author
+#### Author
 
 - **Uwen, Godwin Etenikang** - [GitHub Profile](https://github.com/uwen-godwin)
 
