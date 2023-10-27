@@ -1,7 +1,7 @@
 <a name="Project Title:  0x09. C - Static libraries"></a>
 ## Project Title: 0x09. C - Static libraries
 
-<a name="See Project Requrements Below">Click Here</a>
+<a name="See Project Requrements Below"></a>
 
 <a name="Task 0"></a>
 ## Task 0: 
