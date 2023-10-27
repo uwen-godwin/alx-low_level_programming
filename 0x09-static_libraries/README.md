@@ -4,9 +4,6 @@
 <a name="1-isdigit.c"></a>
 ## 1-isdigit.c
 
-# 1-isdigit.c <a name="1-isdigit.c"></a>
-
-
 <a name="Project 0x09. C - Static libraries"></a>
 ##Project 0x09. C - Static libraries 
 	
