@@ -1,7 +1,7 @@
 <a name="Project Title:  0x09. C - Static libraries"></a>
 ## Project Title: 0x09. C - Static libraries
 
-	[See Project Below]Powered by Julien Barbier
+	[See Project Below](Powered by Julien Barbier)
 
 
 <a name="Task 0"></a>
