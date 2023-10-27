@@ -1,8 +1,9 @@
 <a name="Project Title:  0x09. C - Static libraries"></a>
 ## Project Title: 0x09. C - Static libraries
 
-**See Project Requrements Below**
+	Featuring Julian barber
 
+<a name="See Project Requrements Below"></a>
 
 <a name="Task 0"></a>
 ## Task 0: 
@@ -22,5 +23,5 @@
 
 #### Author
 
-- **Uwen, Godwin Etenikang** - [GitHub Profile](https://github.com/uwen-godwin)
+- **Uwen, Godwin Etenikang** - **Featuring Julian barber** - [GitHub Profile](https://github.com/uwen-godwin)
 
