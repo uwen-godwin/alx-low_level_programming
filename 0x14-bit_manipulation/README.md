@@ -87,4 +87,4 @@
 
 # Authors
 - **Julien Barbier** - [Github Profile](https://github.com/jbarbier)
-- **uwen, Godwin Etenikang** - [Github Profile](https://github.com/uwen-godwin)
+- **Uwen, Godwin Etenikang** - [Github Profile](https://github.com/uwen-godwin)
