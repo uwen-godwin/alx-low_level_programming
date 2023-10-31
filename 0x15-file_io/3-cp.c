@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * create_buffer - Allocates 1024 bytes for a buffer.
@@ -87,8 +86,9 @@ int main(int arguments_count, char *arguments[])
 		destination_file = open(arguments[2], O_WRONLY | O_APPEND);
 	}
 	while (fr > 0)
+		;
 	free(file_buffer);
 	close_file(source_file);
 	close_file(destination_file);
 	return (0);
-}}
+}
