@@ -126,6 +126,6 @@ Write a program that displays the information contained in the ELF header at the
 - man elf, readelf
 - [File: ](100-elf_header.c)
 
-# Authors
+# Authors:
 - **Julien Barbier** - [Github Profile](https://github.com/jbarbier)
 - **Uwen, Godwin Etenikang** - [Github Profile](https://github.com/uwen-godwin)
