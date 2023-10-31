@@ -126,4 +126,4 @@ Write a program that displays the information contained in the ELF header at the
 
 # Authors
 - **Julien Barbier**
-- **Uwen, Godwin Etenikang** - [Github Profile](uwen-godwin)
+- **Uwen, Godwin Etenikang** - [Github Profile](https://github.com/uwen-godwin)
