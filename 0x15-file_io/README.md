@@ -19,7 +19,7 @@ At the end of this project, you are expected to be able to[ explain to anyone, ]
 <a name="Requirements"></a>
 # Requirements
 ## General
-- Allowed editors: *vi, *vim, *emacs
+- Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 - All your files should end with a new line
 - A README.md file, at the root of the folder of the project is mandatory
@@ -35,3 +35,16 @@ At the end of this project, you are expected to be able to[ explain to anyone, ]
 - Don’t forget to push your header file
 - All your header files should be include guarded
 - Tip: always prefer using symbolic constants (POSIX) vs numbers when it makes sense. For instance read(STDIN_FILENO, ... vs read(0, ...
+
+<a name="Task"></a>
+# Task
+## 0. Tread lightly, she is near
+Write a function that reads a text file and prints it to the POSIX standard output.
+
+- Prototype: ssize_t read_textfile(const char *filename, size_t letters);
+- where letters is the number of letters it should read and print
+- returns the actual number of letters it could read and print
+- if the file can not be opened or read, return 0
+- if filename is NULL return 0
+- if write fails or does not write the expected amount of bytes, return 0
+- [File: ](0-read_textfile.c)
