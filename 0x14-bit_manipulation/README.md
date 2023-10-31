@@ -85,6 +85,6 @@
 
 	Your file should contain the exact password, no new line, no extra space
 
-# Authors
+# Authors:
 - **Julien Barbier** - [Github Profile](https://github.com/jbarbier)
 - **Uwen, Godwin Etenikang** - [Github Profile](https://github.com/uwen-godwin)
