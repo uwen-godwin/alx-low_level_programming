@@ -19,7 +19,6 @@ char *create_buffer(char *file_to_write)
 			"Error: Can't write to %s\n", file_to_write);
 		exit(99);
 	}
-
 	return (file_buffer);
 }
 
@@ -39,7 +38,6 @@ void close_file(int descriptor)
 		exit(100);
 	}
 }
-
 /**
  * main - Copies the contents of a file to another file.
  * @arguments_count: The number of arguments supplied to the program.
@@ -48,9 +46,9 @@ void close_file(int descriptor)
  * Return: 0 on success.
  *
  * Description: If the argument count is incorrect - exit code 97.
- *              If source file does not exist or cannot be read - exit code 98.
- *              If destination file cannot be created or written to - exit code 99.
- *              If source or destination file cannot be closed - exit code 100.
+ * If source file does not exist or cannot be read - exit code 98.
+ * If destination file cannot be created or written to - exit code 99.
+ * If source or destination file cannot be closed - exit code 100.
  */
 int main(int arguments_count, char *arguments[])
 {
@@ -66,7 +64,8 @@ int main(int arguments_count, char *arguments[])
 	file_buffer = create_buffer(arguments[2]);
 	source_file = open(arguments[1], O_RDONLY);
 	fr = read(source_file, file_buffer, 1024);
-	destination_file = open(arguments[2], O_CREAT | O_WRONLY | O_TRUNC, file_permissions);
+	destination_file = open(arguments[2],
+	O_CREAT | O_WRONLY | O_TRUNC, file_permissions);
 
 	do {
 		if (source_file == -1 || fr == -1)
@@ -76,7 +75,6 @@ int main(int arguments_count, char *arguments[])
 			free(file_buffer);
 			exit(98);
 		}
-
 		fw = write(destination_file, file_buffer, fr);
 		if (destination_file == -1 || fw == -1)
 		{
@@ -85,13 +83,12 @@ int main(int arguments_count, char *arguments[])
 			free(file_buffer);
 			exit(99);
 		}
-
 		fr = read(source_file, file_buffer, 1024);
 		destination_file = open(arguments[2], O_WRONLY | O_APPEND);
-
-	} while (fr > 0);
+	}
+	while (fr > 0)
 	free(file_buffer);
 	close_file(source_file);
 	close_file(destination_file);
 	return (0);
-}
+}}
