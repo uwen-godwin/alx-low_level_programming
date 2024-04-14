@@ -1,39 +1,46 @@
-[]#[]i[]n[]c[]l[]u[]d[]e[] []<[]s[]t[]d[]i[]o[].[]h[]>[]
-[]#[]i[]n[]c[]l[]u[]d[]e[] []<[]s[]t[]d[]l[]i[]b[].[]h[]>[]
-[]#[]i[]n[]c[]l[]u[]d[]e[] []<[]m[]a[]t[]h[].[]h[]>[]
-[]#[]i[]n[]c[]l[]u[]d[]e[] []"[]s[]e[]a[]r[]c[]h[]_[]a[]l[]g[]o[]s[].[]h[]"[]
-[]/[]*[]*[]
-[]*[] []j[]u[]m[]p[]_[]s[]e[]a[]r[]c[]h[] []-[] []s[]e[]a[]r[]c[]h[]e[]s[] []f[]o[]r[] []a[] []v[]a[]l[]u[]e[] []i[]n[] []a[] []s[]o[]r[]t[]e[]d[] []a[]r[]r[]a[]y[] []o[]f[] []i[]n[]t[]e[]g[]e[]r[]s[]
-[]*[] []u[]s[]i[]n[]g[] []t[]h[]e[] []J[]u[]m[]p[] []s[]e[]a[]r[]c[]h[] []a[]l[]g[]o[]r[]i[]t[]h[]m[]
-[]*[] []@[]a[]r[]r[]a[]y[]:[] []p[]o[]i[]n[]t[]e[]r[] []t[]o[] []t[]h[]e[] []f[]i[]r[]s[]t[] []e[]l[]e[]m[]e[]n[]t[] []o[]f[] []t[]h[]e[] []a[]r[]r[]a[]y[] []t[]o[] []s[]e[]a[]r[]c[]h[] []i[]n[]
-[]*[] []@[]s[]i[]z[]e[]:[] []n[]u[]m[]b[]e[]r[] []o[]f[] []e[]l[]e[]m[]e[]n[]t[]s[] []i[]n[] []a[]r[]r[]a[]y[]
-[]*[] []@[]v[]a[]l[]u[]e[]:[] []v[]a[]l[]u[]e[] []t[]o[] []s[]e[]a[]r[]c[]h[] []f[]o[]r[]
-[]*[] []R[]e[]t[]u[]r[]n[]:[] []i[]n[]d[]e[]x[] []w[]h[]e[]r[]e[] []v[]a[]l[]u[]e[] []i[]s[] []l[]o[]c[]a[]t[]e[]d[],[] []o[]r[] []r[]a[]n[]g[]e[] []w[]h[]e[]r[]e[] []i[]t[]'[]s[] []f[]o[]u[]n[]d[]
-[]*[]/[]
-[]i[]n[]t[] []j[]u[]m[]p[]_[]s[]e[]a[]r[]c[]h[]([]i[]n[]t[] []*[]a[]r[]r[]a[]y[],[] []s[]i[]z[]e[]_[]t[] []s[]i[]z[]e[],[] []i[]n[]t[] []v[]a[]l[]u[]e[])[]
-[]{[]
-[]s[]i[]z[]e[]_[]t[] []s[]t[]e[]p[] []=[] []s[]q[]r[]t[]([]s[]i[]z[]e[])[];[]
-[]s[]i[]z[]e[]_[]t[] []p[]r[]e[]v[] []=[] [0];[]
-[]s[]i[]z[]e[]_[]t[] []i[];[]
-[]i[]f[] []([]![]a[]r[]r[]a[]y[])[]
-[]r[]e[]t[]u[]r[]n[] []([]-[1])[];[]
-[]p[]r[]i[]n[]t[]f[]([]"[]V[]a[]l[]u[]e[] []c[]h[]e[]c[]k[]e[]d[] []a[]r[]r[]a[]y[][[]%[]l[]u[]][] []=[] [][[]%[]d[]][]\[]n[]"[],[] []p[]r[]e[]v[],[] []a[]r[]r[]a[]y[][[]p[]r[]e[]v[]][])[];[]
-[]w[]h[]i[]l[]e[] []([]a[]r[]r[]a[]y[][[]p[]r[]e[]v[]][] []<[] []v[]a[]l[]u[]e[] []&[]&[] []p[]r[]e[]v[] []<[] []s[]i[]z[]e[])[]
-[]{[]
-[]p[]r[]e[]v[] []+[]=[] []s[]t[]e[]p[];[]
-[]i[]f[] []([]p[]r[]e[]v[] []<[] []s[]i[]z[]e[])[]
-[]p[]r[]i[]n[]t[]f[]([]"[]V[]a[]l[]u[]e[] []c[]h[]e[]c[]k[]e[]d[] []a[]r[]r[]a[]y[][[]%[]l[]u[]][] []=[] [][[]%[]d[]][]\[]n[]"[],[] []p[]r[]e[]v[],[] []a[]r[]r[]a[]y[][[]p[]r[]e[]v[]][])[];[]
-[]e[]l[]s[]e[]
-[]b[]r[]e[]a[]k[];[]
-[]}[]
-[]p[]r[]i[]n[]t[]f[]([]"[]V[]a[]l[]u[]e[] []f[]o[]u[]n[]d[] []b[]e[]t[]w[]e[]e[]n[] []i[]n[]d[]e[]x[]e[]s[] [][[]%[]l[]u[]][] []a[]n[]d[] [][[]%[]l[]u[]][]\[]n[]"[],[] []p[]r[]e[]v[] []-[] []s[]t[]e[]p[],[] []p[]r[]e[]v[])[];[]
-[]/[]*[] []P[]e[]r[]f[]o[]r[]m[] []l[]i[]n[]e[]a[]r[] []s[]e[]a[]r[]c[]h[] []w[]i[]t[]h[]i[]n[] []t[]h[]e[] []r[]a[]n[]g[]e[] []t[]o[] []f[]i[]n[]d[] []t[]h[]e[] []v[]a[]l[]u[]e[] []*[]/[]
-[]f[]o[]r[] []([]i[] []=[] []p[]r[]e[]v[] []-[] []s[]t[]e[]p[];[] []i[] []<[] []s[]i[]z[]e[] []&[]&[] []i[] []<[]=[] []p[]r[]e[]v[];[] []i[]+[]+[])[]
-[]{[]
-[]p[]r[]i[]n[]t[]f[]([]"[]V[]a[]l[]u[]e[] []c[]h[]e[]c[]k[]e[]d[] []a[]r[]r[]a[]y[][[]%[]l[]u[]][] []=[] [][[]%[]d[]][]\[]n[]"[],[] []i[],[] []a[]r[]r[]a[]y[][[]i[]][])[];[]
-[]i[]f[] []([]a[]r[]r[]a[]y[][[]i[]][] []=[]=[] []v[]a[]l[]u[]e[])[]
-[]r[]e[]t[]u[]r[]n[] []([]i[])[];[]
-[]}[]
-[]/[]*[] []I[]f[] []t[]h[]e[] []v[]a[]l[]u[]e[] []i[]s[] []n[]o[]t[] []f[]o[]u[]n[]d[],[] []r[]e[]t[]u[]r[]n[] []-[1] []*[]/[]
-[]r[]e[]t[]u[]r[]n[] []([]-[1])[];[]
-[]}[]
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include "search_algos.h"
+
+/**
+ * jump_search - searches for a value in a sorted array of integers
+ * using the Jump search algorithm
+ * @array: pointer to the first element of the array to search in
+ * @size: number of elements in array
+ * @value: value to search for
+ * Return: index where value is located, or range where it's found
+ */
+int jump_search(int *array, size_t size, int value)
+{
+    size_t step = sqrt(size);
+    size_t prev = 0;
+    size_t i; /* Declare variable here */
+
+    if (!array)
+        return (-1);
+
+    printf("Value checked array[%lu] = [%d]\n", prev, array[prev]);
+
+    while (array[prev] < value && prev < size)
+    {
+        prev += step;
+        if (prev < size)
+            printf("Value checked array[%lu] = [%d]\n", prev, array[prev]);
+        else
+            break;
+    }
+
+    printf("Value found between indexes [%lu] and [%lu]\n", prev - step, prev);
+
+    /* Perform linear search within the range to find the value */
+    for (i = prev - step; i < size && i <= prev; i++)
+    {
+        printf("Value checked array[%lu] = [%d]\n", i, array[i]);
+        if (array[i] == value)
+            return (i);
+    }
+
+    /* If the value is not found, return -1 */
+    return (-1);
+}
